@@ -72,21 +72,21 @@ $(document).ready(function(){
 	   	{
 	   		$(".c").removeClass("underline");
 	   	}
-	   	if(scroll >=4000)
+	   	if(scroll >=4400)
 	   	{
 	   		$(".c1").removeClass("hide");
 	   		$(".c2").removeClass("hide");
 	   		$(".c1").addClass("fadeInLeft");
 	   		$(".c2").addClass("fadeInRight");
 	   	}
-	   	if(scroll >=4300)
+	   	if(scroll >=4700)
 	   	{
 	   		$(".c3").removeClass("hide");
 	   		$(".c4").removeClass("hide");
 	   		$(".c3").addClass("fadeInLeft");
 	   		$(".c4").addClass("fadeInRight");
 	   	}
-	   	if(scroll >=4600)
+	   	if(scroll >=5100)
 	   	{
 	   		$(".c5").removeClass("hide");
 	   		$(".c6").removeClass("hide");
