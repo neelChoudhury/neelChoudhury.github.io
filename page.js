@@ -29,7 +29,7 @@ $(document).ready(function(){
    		}
 
 
-   		if(scroll >= 200)
+   		if(scroll >= 450)
    		{
    			$(".inf").removeClass("hide");
 	   		$(".inf").addClass("fadeInUp");					   		
